@@ -33,7 +33,10 @@ Lastly, you will need to type and enter ```git commit``` in order to commit the 
 ![Image8](gitaddPics.png)
 14) Use ```git commit``` once more after that, and you ought to see this:   
 ![Imag7](gitChanged.png)
-15) Enter git push ```<cloned repository ssh key>``` at this point. This should be visible to you and finished!    
+15) Enter git push ```git@github.com:kepeoples/lab7``` and make sure to use this command before ```git remote set-url origin git@github.com:kepeoples/lab7.git```        
+kepeoples is my github username.   
+Make sure to put your username.
 
-  
+---
+Best wishes! I had faith in your ability! I'm excited about our upcoming tutorial! :)
 
