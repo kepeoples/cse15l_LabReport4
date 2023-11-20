@@ -27,8 +27,10 @@ For myself, I had to click ```<J><J><J><J><J><J><J><J><J><J><J><J><J><J><J><J><J
 ![Image5](TestsRunninOK.png)   
 12) Push and commit the updated version to your Github repository.
 Lastly, you will need to type and enter ```git commit``` in order to commit the changes you have made to your updated clone. This will start the process of committing. Once you hit enter, you will have to type ```git add <file>``` for every file that bash indicates has to be added. It appears as follows:
-
+![Image6](gitCommit.png)
+![Imag7](gitChanged.png)
 13) After that, you'll be prompted to alter the title in Vim. Press ```i``` to add something, edit it, and save it by pressing ```<esc>``` and ```:wq```.
+![Image8](gitaddPics.png)
 14) Use ```git commit``` once more after that, and you ought to see this: 
 15) Enter git push ```<cloned repository ssh key>``` at this point. This should be visible to you and finished!    
 
